@@ -1,5 +1,5 @@
-# Project Title
-Misinformation Detection
+# Misinformation Detection
+
 
 ## Description
 
